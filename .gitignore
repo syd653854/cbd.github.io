@@ -1,0 +1,14 @@
+# 忽略WordPress的缓存文件
+wp-content/cache/
+
+# 忽略WordPress的上传文件目录
+wp-content/uploads/
+
+# 忽略WordPress的临时文件
+wp-content/upgrade/
+
+# 忽略WordPress配置文件，因为每个环境可能有不同的配置
+wp-config.php
+
+# 忽略日志文件
+error_log
